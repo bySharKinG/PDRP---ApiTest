@@ -1,0 +1,5 @@
+ main: fr.poudlardrp.api.API
+ name: PoudlardAPI
+ version: 1.0.0
+ authors: [mentor6561]
+ commands:
